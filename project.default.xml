@@ -8,7 +8,7 @@
             <entry key="copy-libs" value="false" />
             <entry key="location-0" value="BUNDLED:(bundled):Sun Checks" />
             <entry key="location-1" value="BUNDLED:(bundled):Google Checks" />
-            <entry key="location-2" value="LOCAL_FILE:/Users/frankeichenlaub/IntelliJSettings/checkstyle.xml:Custom Checkstyle Configuration" />
+            <entry key="location-2" value="LOCAL_FILE:/Users/frankeichenlaub/Library/Preferences/IntelliJIdea2018.2/options/checkstyle.xml:Brightspot Checkstyle Rules" />
             <entry key="scan-before-checkin" value="false" />
             <entry key="scanscope" value="JavaOnly" />
             <entry key="suppress-errors" value="false" />
